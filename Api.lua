@@ -1,4 +1,4 @@
 local Version = {
-    ["Version"] = function(V) -- just print() who tf will use this
+    ["Version"] = function(V)
         Version = 1.3.9
   end
