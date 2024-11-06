@@ -1,3 +1,4 @@
+local Protegen = {}
 local cloneref = cloneref or function(o) return o end
 local InputService: UserInputService = cloneref(game:GetService('UserInputService'));
 local TextService: TextService = cloneref(game:GetService('TextService'));
@@ -4170,3 +4171,4 @@ Players.PlayerRemoving:Connect(OnPlayerChange);
 
 getgenv().Library = Library
 return Library
+ return Protegen
