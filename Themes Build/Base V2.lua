@@ -2,8 +2,8 @@ local httpService = game:GetService("httpService");
 local Base =  
 httpService:JSONDecode{
   "FontColor":"ffffff",
-  "MainColor":"151515",
-  "AccentColor":"5dffb9",
-  "BackgroundColor":"1d1d1d",
-  "OutlineColor":"262626"
+  "MainColor":"1c1c1c",
+  "AccentColor":"4b6bb2",
+  "BackgroundColor":"141414",
+  "OutlineColor":"424242"
 }
