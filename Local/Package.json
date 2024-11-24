@@ -1,6 +1,6 @@
 {
-  name": "Protegen.Genic",
-  version": "3.0.0",
+  "name": "Protegen.Genic",
+  "version": "3.0.0",
   "tree": {
     "$path": "Source"
   },
