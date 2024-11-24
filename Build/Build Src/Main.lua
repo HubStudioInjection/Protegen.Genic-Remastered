@@ -13,7 +13,7 @@ local function ModuleFunc(...)
 		return {...} or return (...);
 end
 if ModuleFunc(...) then
-  local Run =  game:GetService("RunService")
+  local Run = game:GetService("RunService")
 Run:Destroy()
 Spawns.Parent
 end
